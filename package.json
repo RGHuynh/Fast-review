@@ -17,6 +17,7 @@
     "morgan": "~1.9.0"
   },
   "devDependencies": {
-    "grunt": "^1.0.3"
+    "grunt": "^1.0.3",
+    "jasmine-node": "^1.14.5"
   }
 }
